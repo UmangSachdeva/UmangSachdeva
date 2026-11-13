@@ -50,12 +50,6 @@ A self-hostable, Sentry-style platform: services report errors over a signed API
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Trader Go** | Stock-tracking app with real-time price updates over WebSockets, watchlists, JWT auth with email verification, and market news. | Django REST, Django Channels, React | [Live](https://trader-go.vercel.app) · [Backend](https://github.com/UmangSachdeva/Trader-Go-Backend) · [Frontend](https://github.com/UmangSachdeva/Trader-Go) |
-| **Automated Email Sequencer** | Design email campaigns as a flowchart (lead source, emails, delays) and have them scheduled and sent automatically. | MERN, React Flow | [Live](https://email-sequencer-theta.vercel.app) · [Code](https://github.com/UmangSachdeva/email-sequencer) |
-| **PaymentX** | Personal-finance tracker: bank linking through Plaid, de-duplicated transaction import, and spending analytics (monthly trends, average spend, weekly patterns, debit vs. credit). | Go, TypeScript, Vite, HeroUI | [Backend](https://github.com/UmangSachdeva/PaymentX-Backend) · [Frontend](https://github.com/UmangSachdeva/PayemntX-Frontend) |
-| **Property Management API** | Property listings with owner-only CRUD, rich query filters, favorites, and Redis-cached search results. | Node.js, Express, MongoDB, Redis | [Code](https://github.com/UmangSachdeva/Property-Management-API) |
-| **Car Rentals** | Car rental platform with user authentication, car listings, and in-app chat; containerized with Docker. | Node.js, JavaScript, Docker | [Live](https://car-selling-site.vercel.app/) · [Code](https://github.com/UmangSachdeva/-Car_Selling_Site) |
-| **Floating Island 3D** | Interactive 3D scene rendered in the browser. | React, Three.js, Vite | [Code](https://github.com/UmangSachdeva/Floating-Island-3D) |
 
 ---
 
