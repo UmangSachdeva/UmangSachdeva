@@ -50,6 +50,8 @@ A self-hostable, Sentry-style platform: services report errors over a signed API
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| **Automated Email Sequencer** | Design email campaigns as a flowchart (lead source, emails, delays) and have them scheduled and sent automatically. | MERN, React Flow | [Live](https://email-sequencer-theta.vercel.app) · [Code](https://github.com/UmangSachdeva/email-sequencer) |
+| **Car Rentals** | Car rental platform with user authentication, car listings, and in-app chat; containerized with Docker. | Node.js, JavaScript, Docker | [Live](https://car-selling-site.vercel.app/) · [Code](https://github.com/UmangSachdeva/-Car_Selling_Site) |
 
 ---
 
